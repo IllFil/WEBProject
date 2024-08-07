@@ -1,4 +1,4 @@
-This repository contains a simple website I created to practice and enhance my skills in HTML, CSS, and SASS.
+This repository contains a  website I created to practice and enhance my skills in HTML, CSS, and SASS.
 
 Project Overview
 This project is a website built from scratch to demonstrate and learn the following technologies:
