@@ -11,7 +11,7 @@ To view the project, simply clone the repository and open the index.html file in
 
 bash
 Copy code
-git clone https://github.com/yourusername/learning-project-html-css-sass.git
+git clone https://github.com/IllFil/WEBProject.git
 open index.html
 Features
 HTML structure
